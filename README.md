@@ -26,4 +26,5 @@ The dashboard includes the following visualizations and charts:
 Explore the live dashboard on Tableau Public:
 (https://public.tableau.com/app/profile/prajuth.reddy/viz/Amazonsalesworkbook_17578262834540/Dashboard1?publish=yes)
 
+<img width="1341" height="899" alt="Dashboard 1" src="https://github.com/user-attachments/assets/1b81cae1-9d62-45e1-a7c3-23b1d8159a0a" />
 
